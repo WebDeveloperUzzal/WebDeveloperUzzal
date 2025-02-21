@@ -1,4 +1,4 @@
-img=src"https://media.licdn.com/dms/image/v2/D5616AQFcBDhj5IY3cg/profile-displaybackgroundimage-shrink_350_1400/B56ZUqFXB2GUAY-/0/1740167804338?e=1745452800&v=beta&t=IrniU95xdzbJEwWPR1WBFRuOnvsGX5OvLke2GAsj57s"
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFcBDhj5IY3cg/profile-displaybackgroundimage-shrink_350_1400/B56ZUqFXB2GUAY-/0/1740167804338?e=1745452800&v=beta&t=IrniU95xdzbJEwWPR1WBFRuOnvsGX5OvLke2GAsj57s">
 
 <h1 align="center">Hi 👋, I'm Md Uzzal Miah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
